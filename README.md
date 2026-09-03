@@ -54,4 +54,5 @@ Explore our repositories below or connect with our engineering team.
 - **LinkedIn:** [linkedin.com/company/achord-io](https://www.linkedin.com/company/achord-io)
 - **X (Twitter):** [@achord_io](https://x.com/achord_io)
 - **Instagram:** [@achord.io](https://www.instagram.com/achord.io/)
+- **Facebook:** [facebook.com/achord.io](https://www.facebook.com/achord.io/)
 - **GitHub:** [github.com/achord-io](https://github.com/achord-io)
